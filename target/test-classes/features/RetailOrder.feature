@@ -1,4 +1,4 @@
-@Regration
+@Test
 Feature: Retail Order Page
 
   Background: 

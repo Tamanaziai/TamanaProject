@@ -9,7 +9,7 @@ import io.cucumber.junit.CucumberOptions;
 
 	@RunWith(Cucumber.class)
 	@CucumberOptions(
-			tags = "@Signin",
+			tags = "@Test",
 	        features = ("classpath:features"),
 	        glue = "tek.capstone.dragons",
 	        dryRun = false, 
