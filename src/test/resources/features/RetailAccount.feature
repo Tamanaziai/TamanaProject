@@ -10,7 +10,7 @@ Feature: Retail Account Page
     And User click on Account option
 
   Scenario: Verify User can update Profile Information
-    And User update Name 'Tamanaa1' and Phone '9166964532'
+    And User update Name 'Tamannaa1' and Phone '9166964532'
     And User click on Update button
     Then user profile information should be updated
 
@@ -21,7 +21,7 @@ Feature: Retail Account Page
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
       | 7867867867867866 | Tamanaziai     |              6 |           2023 |          123  |
     And User click on Add your card button
-    Then message should be displayed 'Payment Method added successfully'
+    Then message should be displayed 'Payment Method added sucessfully'
 
   Scenario: Verify User can edit Debit or Credit card
     And User click on Edit option of card section

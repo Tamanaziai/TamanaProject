@@ -209,7 +209,7 @@ public class RetailOrderSteps extends CommonUtility {
 
 	@When("User select the Return Reason {string}")
 	public void userSelectTheReturnReason(String string) {
-		click(factory.retailorderpage().dropDownForReturnOrder);
+		//(factory.retailorderpage().dropDownForReturnOrder);
 		selectByVisibleText(factory.retailorderpage().dropDownForReturnOrder, string);
 		logger.info("User was able to choose the option successfully");
 	}

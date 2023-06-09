@@ -16,6 +16,6 @@ Feature: Sign in/Sign Up Features
     And User click on Create New Account button
     And User fill the signUp information with below data
       | name | email               | password  | confirmPassword |
-      | Tamana | tamana.ziai1786@gmail.com | Ziai@786 | Ziai@786      |
+      | Tamana | tamana.ziaai1786@gmail.com | Ziai@786 | Ziai@786      |
     And User click on SignUp button
     Then User should be logged into account page

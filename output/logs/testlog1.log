@@ -11455,3 +11455,32 @@
 2023-06-08 17:06:31,435 [main] INFO logger_file - User clicked on signin option successfully
 2023-06-08 17:06:33,813 [main] INFO logger_file - Tamana200@gmail.email was entered successfully
 2023-06-08 17:06:33,814 [main] INFO logger_file - Tamana@123password was entered successfully
+2023-06-08 17:40:37,447 [main] INFO logger_file - User is on retail website
+2023-06-08 17:40:37,990 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-08 17:40:41,452 [main] INFO logger_file - tamana.ziai786@gmail.comemail was entered successfully
+2023-06-08 17:40:41,454 [main] INFO logger_file - Ziai@786password was entered successfully
+2023-06-08 17:40:42,676 [main] INFO logger_file - User was able to login
+2023-06-08 17:40:44,498 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-06-08 17:40:45,523 [main] INFO logger_file - user was able to change the categgory to Smart Home
+2023-06-08 17:40:46,502 [main] INFO logger_file - User was able to search for the item kasa outdoor smart plug
+2023-06-08 17:40:47,008 [main] INFO logger_file - search button was clicked successfully
+2023-06-08 17:40:47,642 [main] INFO logger_file - User clicked the item successfully
+2023-06-08 17:40:48,294 [main] INFO logger_file - User added to cart successfully
+2023-06-08 17:40:48,696 [main] INFO logger_file - User was able to click on cart option successfully
+2023-06-08 17:40:49,019 [main] INFO logger_file - User was able to click on Proceed to Checkout button successfully
+2023-06-08 17:40:49,434 [main] INFO logger_file - User was able to click on Place Your Order successfully 
+2023-06-08 17:40:50,048 [main] INFO logger_file - User was able to click on orders section
+2023-06-08 17:44:31,655 [main] INFO logger_file - User is on retail website
+2023-06-08 17:44:32,347 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-08 17:46:25,372 [main] INFO logger_file - User is on retail website
+2023-06-08 17:46:26,054 [main] INFO logger_file - User clicked on signin option successfully
+2023-06-08 17:46:29,238 [main] INFO logger_file - tamana.ziai786@gmail.comemail was entered successfully
+2023-06-08 17:46:29,239 [main] INFO logger_file - Ziai@786password was entered successfully
+2023-06-08 17:46:30,520 [main] INFO logger_file - User was able to login
+2023-06-08 17:46:31,511 [main] INFO logger_file - user was able to see the Account and lohout option
+2023-06-08 17:46:32,999 [main] INFO logger_file - User was able to click on orders section
+2023-06-08 17:46:33,722 [main] INFO logger_file - User was able to click on Return Items button successfully
+2023-06-08 17:46:34,227 [main] INFO logger_file - User was able to choose the option successfully
+2023-06-08 17:46:35,087 [main] INFO logger_file - User was able to choose the option successfully
+2023-06-08 17:46:35,578 [main] INFO logger_file - User was able toclick on Return Order button successfully
+2023-06-08 17:46:36,141 [main] INFO logger_file - User was able to see the message

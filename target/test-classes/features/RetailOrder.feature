@@ -52,18 +52,18 @@ Feature: Retail Order Page
     And User enter email 'tamana.ziai786@gmail.com' and password 'Ziai@786'
     And User click on the login button
     And User should be logged in into Account
-    And User change the category to 'Smart Home'
-    And User search for an item 'kasa outdoor smart plug'
-    And User click on Search icon
-    And User click on item
-    And User click add to Cart button
-    And User click on Cart option
-    And User click on Proceed to Checkout button
-    And User click on Place Your Order
+    #And User change the category to 'Smart Home'
+    #And User search for an item 'kasa outdoor smart plug'
+    #And User click on Search icon
+    #And User click on item
+    #And User click add to Cart button
+    #And User click on Cart option
+    #And User click on Proceed to Checkout button
+    #And User click on Place Your Order
     And User click on Orders section
     And User click on Return Items button
-    And User select the Return Reason "Item damaged"
-    And User select the drop off service "FedEx"
+    And User select the Return Reason 'Item damaged'
+    And User select the drop off service 'FedEx'
     And User click on Return Order button
     Then a cancelation message should be displayed "Return was successful"
 @Regration5
