@@ -10,7 +10,7 @@ Feature: Retail Account Page
     And User click on Account option
 
   Scenario: Verify User can update Profile Information
-    And User update Name 'Tamana1' and Phone '9166964532'
+    And User update Name 'Tamanaa1' and Phone '9166964532'
     And User click on Update button
     Then user profile information should be updated
 
@@ -27,7 +27,7 @@ Feature: Retail Account Page
     And User click on Edit option of card section
     And user edit information with below data
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 7867867867867888 | Tamana ziai  |               11 |           2029 |        983 |
+      | 7867867867867888 | Tamana ziaai  |               11 |           2029 |        983 |
     And user click on Update Your Card button
     Then a message should be displayed 'Payment Method updated Successfully'
 
@@ -47,7 +47,7 @@ Feature: Retail Account Page
     And User click on edit address option
     And user eidt new address form with below information
       | country       | fullName   | phoneNumber | streetAddress         | apt    | city      | state      | zipCode |
-      | United States | Tamanaa Ziai| 5714678931 | 8760 center parkway   |  f234      | woodbridge | Virginia |   95758 |
+      | United States | Tamanaa Ziaai| 5714678931 | 8760 center parkway   |  f234      | woodbridge | Virginia |   95758 |
     And User click update Your Address button
     Then a message should be display 'Address Updated Successfully'
 

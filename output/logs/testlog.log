@@ -11451,3 +11451,7 @@
 2023-06-07 21:17:12,371 - logger_file -INFO - User was able to click on Proceed to Checkout button successfully
 2023-06-07 21:17:12,501 - logger_file -INFO - User was able to click on Place Your Order successfully 
 2023-06-07 21:17:13,279 - logger_file -INFO - User was able to click on orders section
+2023-06-08 17:06:30,817 - logger_file -INFO - User is on retail website
+2023-06-08 17:06:31,435 - logger_file -INFO - User clicked on signin option successfully
+2023-06-08 17:06:33,813 - logger_file -INFO - Tamana200@gmail.email was entered successfully
+2023-06-08 17:06:33,814 - logger_file -INFO - Tamana@123password was entered successfully
